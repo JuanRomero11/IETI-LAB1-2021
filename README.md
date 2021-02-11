@@ -10,8 +10,8 @@ Como primera medida se debera instalar el JDK y npm y si es necesario un editor 
 
 Descargar JDK e instrucciones de instalacion
 https://www.oracle.com/technetwork/es/java/javase/downloads/index.html
-Descargar maven e instrucciones de instalacion
-https://maven.apache.org/download.cgi
+Descargar npm y Node.js e instrucciones de instalacion
+https://nodejs.org/es/
 Descargar Git e instrucciones de instalacion
 https://git-scm.com/downloads
 
@@ -35,12 +35,26 @@ Para ejecutar el proyecto localmente
 
 ## Part 1: Create a basic React application and understand React basics
 
+JSX and React Components
 
-Resultados obtenidos:
+![alt text](https://github.com/JuanRomero11/IETI-LAB1-2021/blob/main/imagenes/Parte1.PNG)
 
-![alt text]()
+## Part 2: Create React Components for the TODO App
+
+![alt text](https://github.com/JuanRomero11/IETI-LAB1-2021/blob/main/imagenes/parte2.PNG)
+
+## Part 3: Interacting with React Components
+
+ingresamos el texto y la prioridad
+
+![alt text](https://github.com/JuanRomero11/IETI-LAB1-2021/blob/main/imagenes/Parte31.PNG)
+
+y obtenemos el resultado de que es exitoso y a parte que ingresa la fecha actual.
+
+![alt text](https://github.com/JuanRomero11/IETI-LAB1-2021/blob/main/imagenes/parte32.PNG)
 
 ## Autor
 Juan Guillermo Romero 
+
 ## License
 Este codigo tiene una licencia Apache License 2.0 la cual se detalla en https://github.com/JuanRomero11/IETI-LAB1-2021/blob/main/LICENSE
